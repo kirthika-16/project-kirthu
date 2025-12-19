@@ -5,5 +5,7 @@ A=int(input("Enter The First Number :"))
 B=int(input("Enter The Second Number :"))
 Addition=A+B
 Subraction=A-B
+Multiplication=A*B
 print("Addition Of Two Numbers:",Addition)
-print("Subraction Of Two Numbers:",Subraction) 
+print("Subraction Of Two Numbers:",Subraction)
+print("Multiplication of Two Numbers",Multiplication) 
